@@ -7,6 +7,4 @@ public class GasolineCar extends Car {
         super(id, name, brand, category, price, yearOfProduction, warranty);
         this.fuelConsumption = fuelConsumption;
     }
-
-    
 }
